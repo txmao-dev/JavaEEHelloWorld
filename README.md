@@ -1,3 +1,2 @@
 # JavaEEHelloWorld
-JavaEE Enterprise Project Develoyment
-Test Project
+JavaEE Enterprise Develoyment Test Project 
